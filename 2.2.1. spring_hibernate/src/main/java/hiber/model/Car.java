@@ -24,27 +24,27 @@ public class Car {
         this.series = series;
     }
 
-    public long getId() {
+    public long getCarId() {
         return id;
     }
 
-    public void setId(long id) {
+    public void setCarId(long id) {
         this.id = id;
     }
 
-    public String getModel() {
+    public String getCarModel() {
         return model;
     }
 
-    public void setModel(String model) {
+    public void setCarModel(String model) {
         this.model = model;
     }
 
-    public int getSeries() {
+    public int getCarSeries() {
         return series;
     }
 
-    public void setSeries(int series) {
+    public void setCarSeries(int series) {
         this.series = series;
     }
 
